@@ -12,11 +12,12 @@ div {
     color: white;
     text-align: center;
     line-height: 30px;
+    border: 2px solid black;
 }
 
 .circle {
     border-radius: 50%;
-    background-color: azure;
-    border: solid 1px black;
+    border: 2px solid black;
     color: black;
+    background-color: #fff;
 }
